@@ -46,9 +46,9 @@ Script para lanzar el pipeline de operaciones
 
 ## ▶️ Uso
 
-Primero, asegúrate de tener Python 3.8+ y las dependencias necesarias instaladas.
-Segundo, modifica en KeysGenerator el import y escoge el fichero que quieras importar segun la curva elíptica objeto de análisis.
-Tercero, crea los directorios KEYS*
+- Primero, asegúrate de tener Python 3.8+ y las dependencias necesarias instaladas.
+- Segundo, modifica en KeysGenerator el import y escoge el fichero que quieras importar segun la curva elíptica objeto de análisis.
+- Tercero, crea los directorios KEYS*
 ### 1. Ejecutar el flujo completo
 
 ```bash
