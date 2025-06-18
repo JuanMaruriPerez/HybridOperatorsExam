@@ -1,0 +1,430 @@
+
+📁 Analizando: KEYS/ECDH.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 5.6016 bits por byte
+  Total de bytes     : 28000000
+  Media              : 109375.00
+  Desviación estándar: 333.58
+  Mínimo             : 108319
+  Máximo             : 110164
+  Byte más frecuente : 113 con 110164 apariciones
+
+  Bloque 01: frecuencia media = 109380.25 : 5.25
+  Bloque 02: frecuencia media = 109547.75 : 172.75
+  Bloque 03: frecuencia media = 109495.38 : 120.38
+  Bloque 04: frecuencia media = 109525.50 : 150.50
+  Bloque 05: frecuencia media = 109399.38 : 24.38
+  Bloque 06: frecuencia media = 109297.12 : -77.88
+  Bloque 07: frecuencia media = 109530.25 : 155.25
+  Bloque 08: frecuencia media = 109256.25 : -118.75
+  Bloque 09: frecuencia media = 109538.25 : 163.25
+  Bloque 10: frecuencia media = 109356.50 : -18.50
+  Bloque 11: frecuencia media = 109284.12 : -90.88
+  Bloque 12: frecuencia media = 109384.62 : 9.62
+  Bloque 13: frecuencia media = 109193.38 : -181.62
+  Bloque 14: frecuencia media = 109312.62 : -62.38
+  Bloque 15: frecuencia media = 109449.50 : 74.50
+  Bloque 16: frecuencia media = 109363.25 : -11.75
+  Bloque 17: frecuencia media = 109617.62 : 242.62
+  Bloque 18: frecuencia media = 109479.12 : 104.12
+  Bloque 19: frecuencia media = 109383.62 : 8.62
+  Bloque 20: frecuencia media = 109396.88 : 21.88
+  Bloque 21: frecuencia media = 109249.75 : -125.25
+  Bloque 22: frecuencia media = 109405.50 : 30.50
+  Bloque 23: frecuencia media = 109424.50 : 49.50
+  Bloque 24: frecuencia media = 109377.50 : 2.50
+  Bloque 25: frecuencia media = 109152.62 : -222.38
+  Bloque 26: frecuencia media = 109513.00 : 138.00
+  Bloque 27: frecuencia media = 109284.75 : -90.25
+  Bloque 28: frecuencia media = 109399.00 : 24.00
+  Bloque 29: frecuencia media = 109236.25 : -138.75
+  Bloque 30: frecuencia media = 109226.75 : -148.25
+  Bloque 31: frecuencia media = 109246.88 : -128.12
+  Bloque 32: frecuencia media = 109292.12 : -82.88
+
+📁 Analizando: KEYS/KEM.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8816 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 262.80
+  Mínimo             : 61628
+  Máximo             : 63318
+  Byte más frecuente : 9 con 63318 apariciones
+
+  Bloque 01: frecuencia media = 62531.75 : 31.75
+  Bloque 02: frecuencia media = 62532.75 : 32.75
+  Bloque 03: frecuencia media = 62537.75 : 37.75
+  Bloque 04: frecuencia media = 62712.25 : 212.25
+  Bloque 05: frecuencia media = 62463.25 : -36.75
+  Bloque 06: frecuencia media = 62528.38 : 28.38
+  Bloque 07: frecuencia media = 62609.25 : 109.25
+  Bloque 08: frecuencia media = 62471.38 : -28.62
+  Bloque 09: frecuencia media = 62518.00 : 18.00
+  Bloque 10: frecuencia media = 62441.62 : -58.38
+  Bloque 11: frecuencia media = 62544.25 : 44.25
+  Bloque 12: frecuencia media = 62455.38 : -44.62
+  Bloque 13: frecuencia media = 62370.62 : -129.38
+  Bloque 14: frecuencia media = 62415.50 : -84.50
+  Bloque 15: frecuencia media = 62479.50 : -20.50
+  Bloque 16: frecuencia media = 62471.38 : -28.62
+  Bloque 17: frecuencia media = 62460.00 : -40.00
+  Bloque 18: frecuencia media = 62541.00 : 41.00
+  Bloque 19: frecuencia media = 62499.00 : -1.00
+  Bloque 20: frecuencia media = 62395.75 : -104.25
+  Bloque 21: frecuencia media = 62557.38 : 57.38
+  Bloque 22: frecuencia media = 62476.00 : -24.00
+  Bloque 23: frecuencia media = 62475.00 : -25.00
+  Bloque 24: frecuencia media = 62443.88 : -56.12
+  Bloque 25: frecuencia media = 62414.50 : -85.50
+  Bloque 26: frecuencia media = 62484.50 : -15.50
+  Bloque 27: frecuencia media = 62605.00 : 105.00
+  Bloque 28: frecuencia media = 62415.12 : -84.88
+  Bloque 29: frecuencia media = 62673.25 : 173.25
+  Bloque 30: frecuencia media = 62515.62 : 15.62
+  Bloque 31: frecuencia media = 62617.88 : 117.88
+  Bloque 32: frecuencia media = 62343.12 : -156.88
+
+📁 Analizando: KEYS_COMBINED/concatenation.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 6.1419 bits por byte
+  Total de bytes     : 44000000
+  Media              : 171875.00
+  Desviación estándar: 428.70
+  Mínimo             : 170687
+  Máximo             : 173031
+  Byte más frecuente : 18 con 173031 apariciones
+
+  Bloque 01: frecuencia media = 171912.00 : 37.00
+  Bloque 02: frecuencia media = 172080.50 : 205.50
+  Bloque 03: frecuencia media = 172033.12 : 158.12
+  Bloque 04: frecuencia media = 172237.75 : 362.75
+  Bloque 05: frecuencia media = 171862.62 : -12.38
+  Bloque 06: frecuencia media = 171825.50 : -49.50
+  Bloque 07: frecuencia media = 172139.50 : 264.50
+  Bloque 08: frecuencia media = 171727.62 : -147.38
+  Bloque 09: frecuencia media = 172056.25 : 181.25
+  Bloque 10: frecuencia media = 171798.12 : -76.88
+  Bloque 11: frecuencia media = 171828.38 : -46.62
+  Bloque 12: frecuencia media = 171840.00 : -35.00
+  Bloque 13: frecuencia media = 171564.00 : -311.00
+  Bloque 14: frecuencia media = 171728.12 : -146.88
+  Bloque 15: frecuencia media = 171929.00 : 54.00
+  Bloque 16: frecuencia media = 171834.62 : -40.38
+  Bloque 17: frecuencia media = 172077.62 : 202.62
+  Bloque 18: frecuencia media = 172020.12 : 145.12
+  Bloque 19: frecuencia media = 171882.62 : 7.62
+  Bloque 20: frecuencia media = 171792.62 : -82.38
+  Bloque 21: frecuencia media = 171807.12 : -67.88
+  Bloque 22: frecuencia media = 171881.50 : 6.50
+  Bloque 23: frecuencia media = 171899.50 : 24.50
+  Bloque 24: frecuencia media = 171821.38 : -53.62
+  Bloque 25: frecuencia media = 171567.12 : -307.88
+  Bloque 26: frecuencia media = 171997.50 : 122.50
+  Bloque 27: frecuencia media = 171889.75 : 14.75
+  Bloque 28: frecuencia media = 171814.12 : -60.88
+  Bloque 29: frecuencia media = 171909.50 : 34.50
+  Bloque 30: frecuencia media = 171742.38 : -132.62
+  Bloque 31: frecuencia media = 171864.75 : -10.25
+  Bloque 32: frecuencia media = 171635.25 : -239.75
+
+📁 Analizando: KEYS_COMBINED/hash.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8818 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 233.67
+  Mínimo             : 61839
+  Máximo             : 63055
+  Byte más frecuente : 61 con 63055 apariciones
+
+  Bloque 01: frecuencia media = 62386.12 : -113.88
+  Bloque 02: frecuencia media = 62670.75 : 170.75
+  Bloque 03: frecuencia media = 62518.88 : 18.88
+  Bloque 04: frecuencia media = 62619.62 : 119.62
+  Bloque 05: frecuencia media = 62475.75 : -24.25
+  Bloque 06: frecuencia media = 62476.25 : -23.75
+  Bloque 07: frecuencia media = 62506.38 : 6.38
+  Bloque 08: frecuencia media = 62599.50 : 99.50
+  Bloque 09: frecuencia media = 62527.62 : 27.62
+  Bloque 10: frecuencia media = 62481.12 : -18.88
+  Bloque 11: frecuencia media = 62525.62 : 25.62
+  Bloque 12: frecuencia media = 62516.88 : 16.88
+  Bloque 13: frecuencia media = 62544.12 : 44.12
+  Bloque 14: frecuencia media = 62525.62 : 25.62
+  Bloque 15: frecuencia media = 62451.88 : -48.12
+  Bloque 16: frecuencia media = 62453.38 : -46.62
+  Bloque 17: frecuencia media = 62459.38 : -40.62
+  Bloque 18: frecuencia media = 62514.62 : 14.62
+  Bloque 19: frecuencia media = 62401.75 : -98.25
+  Bloque 20: frecuencia media = 62420.50 : -79.50
+  Bloque 21: frecuencia media = 62453.38 : -46.62
+  Bloque 22: frecuencia media = 62444.62 : -55.38
+  Bloque 23: frecuencia media = 62354.50 : -145.50
+  Bloque 24: frecuencia media = 62486.50 : -13.50
+  Bloque 25: frecuencia media = 62347.00 : -153.00
+  Bloque 26: frecuencia media = 62731.38 : 231.38
+  Bloque 27: frecuencia media = 62566.62 : 66.62
+  Bloque 28: frecuencia media = 62615.12 : 115.12
+  Bloque 29: frecuencia media = 62520.25 : 20.25
+  Bloque 30: frecuencia media = 62458.38 : -41.62
+  Bloque 31: frecuencia media = 62512.25 : 12.25
+  Bloque 32: frecuencia media = 62434.25 : -65.75
+
+📁 Analizando: KEYS_COMBINED/hmac.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8818 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 252.05
+  Mínimo             : 61787
+  Máximo             : 63159
+  Byte más frecuente : 137 con 63159 apariciones
+
+  Bloque 01: frecuencia media = 62414.00 : -86.00
+  Bloque 02: frecuencia media = 62378.50 : -121.50
+  Bloque 03: frecuencia media = 62554.12 : 54.12
+  Bloque 04: frecuencia media = 62574.62 : 74.62
+  Bloque 05: frecuencia media = 62354.62 : -145.38
+  Bloque 06: frecuencia media = 62468.62 : -31.38
+  Bloque 07: frecuencia media = 62575.38 : 75.38
+  Bloque 08: frecuencia media = 62622.50 : 122.50
+  Bloque 09: frecuencia media = 62394.00 : -106.00
+  Bloque 10: frecuencia media = 62439.12 : -60.88
+  Bloque 11: frecuencia media = 62587.62 : 87.62
+  Bloque 12: frecuencia media = 62390.75 : -109.25
+  Bloque 13: frecuencia media = 62619.88 : 119.88
+  Bloque 14: frecuencia media = 62497.62 : -2.38
+  Bloque 15: frecuencia media = 62464.75 : -35.25
+  Bloque 16: frecuencia media = 62355.50 : -144.50
+  Bloque 17: frecuencia media = 62759.75 : 259.75
+  Bloque 18: frecuencia media = 62621.62 : 121.62
+  Bloque 19: frecuencia media = 62613.75 : 113.75
+  Bloque 20: frecuencia media = 62515.50 : 15.50
+  Bloque 21: frecuencia media = 62576.75 : 76.75
+  Bloque 22: frecuencia media = 62352.75 : -147.25
+  Bloque 23: frecuencia media = 62455.00 : -45.00
+  Bloque 24: frecuencia media = 62495.00 : -5.00
+  Bloque 25: frecuencia media = 62448.25 : -51.75
+  Bloque 26: frecuencia media = 62553.62 : 53.62
+  Bloque 27: frecuencia media = 62555.88 : 55.88
+  Bloque 28: frecuencia media = 62474.75 : -25.25
+  Bloque 29: frecuencia media = 62552.50 : 52.50
+  Bloque 30: frecuencia media = 62465.75 : -34.25
+  Bloque 31: frecuencia media = 62393.25 : -106.75
+  Bloque 32: frecuencia media = 62474.25 : -25.75
+
+📁 Analizando: KEYS_COMBINED/xwing.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8817 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 262.74
+  Mínimo             : 61693
+  Máximo             : 63281
+  Byte más frecuente : 18 con 63281 apariciones
+
+  Bloque 01: frecuencia media = 62448.75 : -51.25
+  Bloque 02: frecuencia media = 62473.12 : -26.88
+  Bloque 03: frecuencia media = 62564.75 : 64.75
+  Bloque 04: frecuencia media = 62480.50 : -19.50
+  Bloque 05: frecuencia media = 62556.12 : 56.12
+  Bloque 06: frecuencia media = 62640.62 : 140.62
+  Bloque 07: frecuencia media = 62565.50 : 65.50
+  Bloque 08: frecuencia media = 62522.25 : 22.25
+  Bloque 09: frecuencia media = 62416.12 : -83.88
+  Bloque 10: frecuencia media = 62549.25 : 49.25
+  Bloque 11: frecuencia media = 62376.88 : -123.12
+  Bloque 12: frecuencia media = 62590.38 : 90.38
+  Bloque 13: frecuencia media = 62514.88 : 14.88
+  Bloque 14: frecuencia media = 62401.88 : -98.12
+  Bloque 15: frecuencia media = 62420.88 : -79.12
+  Bloque 16: frecuencia media = 62540.50 : 40.50
+  Bloque 17: frecuencia media = 62330.25 : -169.75
+  Bloque 18: frecuencia media = 62451.88 : -48.12
+  Bloque 19: frecuencia media = 62483.12 : -16.88
+  Bloque 20: frecuencia media = 62426.12 : -73.88
+  Bloque 21: frecuencia media = 62536.12 : 36.12
+  Bloque 22: frecuencia media = 62480.62 : -19.38
+  Bloque 23: frecuencia media = 62511.12 : 11.12
+  Bloque 24: frecuencia media = 62759.25 : 259.25
+  Bloque 25: frecuencia media = 62446.75 : -53.25
+  Bloque 26: frecuencia media = 62450.00 : -50.00
+  Bloque 27: frecuencia media = 62544.62 : 44.62
+  Bloque 28: frecuencia media = 62598.75 : 98.75
+  Bloque 29: frecuencia media = 62610.38 : 110.38
+  Bloque 30: frecuencia media = 62516.88 : 16.88
+  Bloque 31: frecuencia media = 62478.50 : -21.50
+  Bloque 32: frecuencia media = 62313.25 : -186.75
+
+📁 Analizando: KEYS_DERIVED/concatenationDerived.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8818 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 268.09
+  Mínimo             : 61913
+  Máximo             : 63183
+  Byte más frecuente : 190 con 63183 apariciones
+
+  Bloque 01: frecuencia media = 62691.62 : 191.62
+  Bloque 02: frecuencia media = 62477.62 : -22.38
+  Bloque 03: frecuencia media = 62553.88 : 53.88
+  Bloque 04: frecuencia media = 62451.00 : -49.00
+  Bloque 05: frecuencia media = 62464.50 : -35.50
+  Bloque 06: frecuencia media = 62413.88 : -86.12
+  Bloque 07: frecuencia media = 62452.88 : -47.12
+  Bloque 08: frecuencia media = 62733.25 : 233.25
+  Bloque 09: frecuencia media = 62502.12 : 2.12
+  Bloque 10: frecuencia media = 62378.00 : -122.00
+  Bloque 11: frecuencia media = 62484.88 : -15.12
+  Bloque 12: frecuencia media = 62490.12 : -9.88
+  Bloque 13: frecuencia media = 62478.00 : -22.00
+  Bloque 14: frecuencia media = 62367.50 : -132.50
+  Bloque 15: frecuencia media = 62341.50 : -158.50
+  Bloque 16: frecuencia media = 62339.50 : -160.50
+  Bloque 17: frecuencia media = 62507.75 : 7.75
+  Bloque 18: frecuencia media = 62662.62 : 162.62
+  Bloque 19: frecuencia media = 62299.00 : -201.00
+  Bloque 20: frecuencia media = 62574.88 : 74.88
+  Bloque 21: frecuencia media = 62516.25 : 16.25
+  Bloque 22: frecuencia media = 62364.75 : -135.25
+  Bloque 23: frecuencia media = 62498.62 : -1.38
+  Bloque 24: frecuencia media = 62524.62 : 24.62
+  Bloque 25: frecuencia media = 62563.62 : 63.62
+  Bloque 26: frecuencia media = 62520.75 : 20.75
+  Bloque 27: frecuencia media = 62619.38 : 119.38
+  Bloque 28: frecuencia media = 62515.00 : 15.00
+  Bloque 29: frecuencia media = 62516.50 : 16.50
+  Bloque 30: frecuencia media = 62685.25 : 185.25
+  Bloque 31: frecuencia media = 62559.12 : 59.12
+  Bloque 32: frecuencia media = 62451.62 : -48.38
+
+📁 Analizando: KEYS_DERIVED/hashDerived.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8817 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 251.03
+  Mínimo             : 61776
+  Máximo             : 63249
+  Byte más frecuente : 124 con 63249 apariciones
+
+  Bloque 01: frecuencia media = 62531.25 : 31.25
+  Bloque 02: frecuencia media = 62405.62 : -94.38
+  Bloque 03: frecuencia media = 62524.88 : 24.88
+  Bloque 04: frecuencia media = 62487.12 : -12.88
+  Bloque 05: frecuencia media = 62429.75 : -70.25
+  Bloque 06: frecuencia media = 62610.88 : 110.88
+  Bloque 07: frecuencia media = 62632.50 : 132.50
+  Bloque 08: frecuencia media = 62453.25 : -46.75
+  Bloque 09: frecuencia media = 62482.12 : -17.88
+  Bloque 10: frecuencia media = 62546.00 : 46.00
+  Bloque 11: frecuencia media = 62489.75 : -10.25
+  Bloque 12: frecuencia media = 62468.50 : -31.50
+  Bloque 13: frecuencia media = 62466.25 : -33.75
+  Bloque 14: frecuencia media = 62504.00 : 4.00
+  Bloque 15: frecuencia media = 62502.38 : 2.38
+  Bloque 16: frecuencia media = 62571.88 : 71.88
+  Bloque 17: frecuencia media = 62536.50 : 36.50
+  Bloque 18: frecuencia media = 62549.25 : 49.25
+  Bloque 19: frecuencia media = 62632.62 : 132.62
+  Bloque 20: frecuencia media = 62496.50 : -3.50
+  Bloque 21: frecuencia media = 62575.25 : 75.25
+  Bloque 22: frecuencia media = 62529.00 : 29.00
+  Bloque 23: frecuencia media = 62472.75 : -27.25
+  Bloque 24: frecuencia media = 62393.62 : -106.38
+  Bloque 25: frecuencia media = 62464.62 : -35.38
+  Bloque 26: frecuencia media = 62524.50 : 24.50
+  Bloque 27: frecuencia media = 62448.38 : -51.62
+  Bloque 28: frecuencia media = 62438.00 : -62.00
+  Bloque 29: frecuencia media = 62614.38 : 114.38
+  Bloque 30: frecuencia media = 62530.00 : 30.00
+  Bloque 31: frecuencia media = 62357.38 : -142.62
+  Bloque 32: frecuencia media = 62331.12 : -168.88
+
+📁 Analizando: KEYS_DERIVED/hmacDerived.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8819 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 248.88
+  Mínimo             : 61920
+  Máximo             : 63262
+  Byte más frecuente : 39 con 63262 apariciones
+
+  Bloque 01: frecuencia media = 62401.25 : -98.75
+  Bloque 02: frecuencia media = 62469.12 : -30.88
+  Bloque 03: frecuencia media = 62504.38 : 4.38
+  Bloque 04: frecuencia media = 62437.25 : -62.75
+  Bloque 05: frecuencia media = 62735.88 : 235.88
+  Bloque 06: frecuencia media = 62487.62 : -12.38
+  Bloque 07: frecuencia media = 62468.38 : -31.62
+  Bloque 08: frecuencia media = 62469.62 : -30.38
+  Bloque 09: frecuencia media = 62593.00 : 93.00
+  Bloque 10: frecuencia media = 62599.25 : 99.25
+  Bloque 11: frecuencia media = 62504.38 : 4.38
+  Bloque 12: frecuencia media = 62422.50 : -77.50
+  Bloque 13: frecuencia media = 62570.88 : 70.88
+  Bloque 14: frecuencia media = 62359.50 : -140.50
+  Bloque 15: frecuencia media = 62610.12 : 110.12
+  Bloque 16: frecuencia media = 62419.38 : -80.62
+  Bloque 17: frecuencia media = 62437.88 : -62.12
+  Bloque 18: frecuencia media = 62384.38 : -115.62
+  Bloque 19: frecuencia media = 62408.88 : -91.12
+  Bloque 20: frecuencia media = 62676.88 : 176.88
+  Bloque 21: frecuencia media = 62458.25 : -41.75
+  Bloque 22: frecuencia media = 62565.62 : 65.62
+  Bloque 23: frecuencia media = 62347.25 : -152.75
+  Bloque 24: frecuencia media = 62484.00 : -16.00
+  Bloque 25: frecuencia media = 62448.50 : -51.50
+  Bloque 26: frecuencia media = 62506.25 : 6.25
+  Bloque 27: frecuencia media = 62643.88 : 143.88
+  Bloque 28: frecuencia media = 62397.25 : -102.75
+  Bloque 29: frecuencia media = 62491.62 : -8.38
+  Bloque 30: frecuencia media = 62549.88 : 49.88
+  Bloque 31: frecuencia media = 62531.38 : 31.38
+  Bloque 32: frecuencia media = 62615.62 : 115.62
+
+📁 Analizando: KEYS_DERIVED/xwingDerived.txt
+🌐 Entropía global del conjunto de claves: 8.0000 bits por byte
+🔐 Entropía media por clave: 4.8817 bits por byte
+  Total de bytes     : 16000000
+  Media              : 62500.00
+  Desviación estándar: 231.28
+  Mínimo             : 61918
+  Máximo             : 63085
+  Byte más frecuente : 55 con 63085 apariciones
+
+  Bloque 01: frecuencia media = 62595.00 : 95.00
+  Bloque 02: frecuencia media = 62322.62 : -177.38
+  Bloque 03: frecuencia media = 62451.25 : -48.75
+  Bloque 04: frecuencia media = 62541.38 : 41.38
+  Bloque 05: frecuencia media = 62417.00 : -83.00
+  Bloque 06: frecuencia media = 62561.75 : 61.75
+  Bloque 07: frecuencia media = 62469.12 : -30.88
+  Bloque 08: frecuencia media = 62520.25 : 20.25
+  Bloque 09: frecuencia media = 62536.12 : 36.12
+  Bloque 10: frecuencia media = 62437.25 : -62.75
+  Bloque 11: frecuencia media = 62620.25 : 120.25
+  Bloque 12: frecuencia media = 62457.00 : -43.00
+  Bloque 13: frecuencia media = 62512.38 : 12.38
+  Bloque 14: frecuencia media = 62610.25 : 110.25
+  Bloque 15: frecuencia media = 62524.12 : 24.12
+  Bloque 16: frecuencia media = 62437.38 : -62.62
+  Bloque 17: frecuencia media = 62599.12 : 99.12
+  Bloque 18: frecuencia media = 62421.38 : -78.62
+  Bloque 19: frecuencia media = 62671.50 : 171.50
+  Bloque 20: frecuencia media = 62523.88 : 23.88
+  Bloque 21: frecuencia media = 62533.12 : 33.12
+  Bloque 22: frecuencia media = 62506.25 : 6.25
+  Bloque 23: frecuencia media = 62383.38 : -116.62
+  Bloque 24: frecuencia media = 62421.38 : -78.62
+  Bloque 25: frecuencia media = 62483.75 : -16.25
+  Bloque 26: frecuencia media = 62507.88 : 7.88
+  Bloque 27: frecuencia media = 62531.00 : 31.00
+  Bloque 28: frecuencia media = 62492.75 : -7.25
+  Bloque 29: frecuencia media = 62535.50 : 35.50
+  Bloque 30: frecuencia media = 62376.00 : -124.00
+  Bloque 31: frecuencia media = 62626.50 : 126.50
+  Bloque 32: frecuencia media = 62373.50 : -126.50
